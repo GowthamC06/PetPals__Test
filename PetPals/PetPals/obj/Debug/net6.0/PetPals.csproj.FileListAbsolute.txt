@@ -1,0 +1,5 @@
+C:\Users\sivab\source\repos\PetPals\PetPals\obj\Debug\net6.0\PetPals.csproj.AssemblyReference.cache
+C:\Users\sivab\source\repos\PetPals\PetPals\obj\Debug\net6.0\PetPals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivab\source\repos\PetPals\PetPals\obj\Debug\net6.0\PetPals.AssemblyInfoInputs.cache
+C:\Users\sivab\source\repos\PetPals\PetPals\obj\Debug\net6.0\PetPals.AssemblyInfo.cs
+C:\Users\sivab\source\repos\PetPals\PetPals\obj\Debug\net6.0\PetPals.csproj.CoreCompileInputs.cache
