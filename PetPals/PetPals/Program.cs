@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Data.SqlClient;
 using PetPals.Util; // Assuming this is where your DB connection string utility is located
-
+using PetPals.Repository;
+using PetPals.Service;
 namespace PetPals
 {
     internal class Program

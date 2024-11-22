@@ -1,11 +1,11 @@
-﻿using PETPALS_II.Model;
+﻿using PetPals.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PETPALS_II.Service
+namespace PetPals.Service
 {
     internal interface IDonationService
     {
